@@ -9,4 +9,7 @@ retrieves excel data from clinicians and presents trends.
 
 ## Application To-Do List
 - Create Database with MySQL
-- Create
+- Create Connection to Database using Python Connector
+- Create Excel (xlxs,csv file) template to use for standardizing the data
+[x] Create html login layout
+
