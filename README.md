@@ -1,5 +1,5 @@
 # Dash_clinic_app
-Clinical office statistics for business intelligence.
+Clinical office statistic dashboard for business intelligence.
 
 - Using Python Library DASH along with MySQL this app does the following:
 - Lets users log on and off
