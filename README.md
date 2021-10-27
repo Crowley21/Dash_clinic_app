@@ -7,7 +7,7 @@ Clinical office statistic dashboard for business intelligence.
 - Present Charts and Values that are tracked as a company
 - Export Graphs/Charts
 
-## Application Features To-Do List
+## Application To-Do List
 - Create Database with MySQL
 - Create Connection to Database using Python Connector
 - Create Excel (xlxs,csv file) template to use for standardizing the data
